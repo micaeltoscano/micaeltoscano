@@ -8,12 +8,25 @@
 ---
 
 ## 🔧 Skills
-- **Linguagens:** Python, SQL  
-- **Frameworks:** Django, Pandas, NumPy  
-- **Ferramentas:** Git, GitHub, Jupyter Notebook  
-- **Análise de Dados:** Visualização, Estatística, Data Cleaning  
 
----
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFE873)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks e Bibliotecas
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Análise de Dados
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF5733?style=for-the-badge)
+![Visualização](https://img.shields.io/badge/Visualização-33CFFF?style=for-the-badge)
+![Estatística](https://img.shields.io/badge/Estatística-FFC300?style=for-the-badge)
 
 ## 🚀 Projetos em destaque
 - [CRUD em Django](#) – Projeto de banco de dados completo com interface web  
