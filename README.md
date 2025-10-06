@@ -10,33 +10,35 @@
 ## 🔧 Skills
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFE873)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+Python, SQL
 
 ### Frameworks e Bibliotecas
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+Django, Pandas, NumPy
 
 ### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Git, GitHub, Jupyter Notebook
 
 ### Análise de Dados
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF5733?style=for-the-badge)
-![Visualização](https://img.shields.io/badge/Visualização-33CFFF?style=for-the-badge)
-![Estatística](https://img.shields.io/badge/Estatística-FFC300?style=for-the-badge)
-
-## 🚀 Projetos em destaque
-- [CRUD em Django](#) – Projeto de banco de dados completo com interface web  
-- [Análise de música e saúde mental](#) – Projeto acadêmico de ciência de dados  
-- [Exploração de dados de transações financeiras](#) – Insights sobre comportamento de consumo
+Data Cleaning, Visualização, Estatística
 
 ---
 
-## 📊 GitHub Stats
-![Micael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=radical)
+## 🚀 Projetos em destaque
+
+### 📂 CRUD em Django
+📝 Projeto completo de banco de dados com interface web.  
+💡 Funcionalidades: criação, leitura, atualização e exclusão de dados.  
+🔗 [Ver repositório](#)
+
+### 📂 Análise de Música e Saúde Mental
+📝 Projeto acadêmico de ciência de dados focado em letras de música e indicadores de saúde mental.  
+💡 Funcionalidades: exploração, visualização e insights sobre diversidade lexical.  
+🔗 [Ver repositório](#)
+
+### 📂 Exploração de Transações Financeiras
+📝 Análise de comportamento de consumo e detecção de padrões em dados de transações.  
+💡 Funcionalidades: análise de gastos por estado, perfil de usuários e categorias.  
+🔗 [Ver repositório](#)
 
 ---
 
@@ -47,18 +49,3 @@
 ---
 
 > “Aprender nunca é demais, e compartilhar conhecimento é multiplicar.” 🌟
-
-<!--
-**micaeltoscano/micaeltoscano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
