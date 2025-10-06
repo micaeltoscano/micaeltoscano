@@ -1,42 +1,78 @@
-# Olá, eu sou o Micael! 👋
+# Hello, I'm Micael! 👋
 
-💻 **Desenvolvedor Python | Django | Ciência de Dados**  
-🎵 Interessado em **análise de músicas e saúde mental**  
-🌱 Sempre aprendendo novas tecnologias e metodologias de dados  
-🌍 Baseado no Brasil
+💻 **Python Developer | Data Science | Backend Development**  
+🎵 **Passionate about NLP, Music, and Mental Health**  
+🌱 **Continuously learning and exploring new technologies**  
+🌍 **Based in Brazil**
 
 ---
 
-## 🔧 Skills
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFE873)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+I'm a Python developer with a strong focus on Data Science and Django development. My passion lies in creating data-driven solutions and building robust web applications. I'm particularly interested in the intersection of technology with creative domains like music and mental health, where I believe data can drive meaningful insights and positive impact.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Web Development**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF5733?style=for-the-badge)
-![Visualização](https://img.shields.io/badge/Visualização-33CFFF?style=for-the-badge)
-![Estatística](https://img.shields.io/badge/Estatística-FFC300?style=for-the-badge)
 
-## 🚀 Projetos em destaque
-
-### 📂 CRUD em Django
-📝 Projeto completo de banco de dados com interface web.  
-💡 Funcionalidades: criação, leitura, atualização e exclusão de dados.  
-🔗 [Ver repositório](https://github.com/micaeltoscano/CRUD_Barbearia)
-
-### 📂 Análise de Música e Saúde Mental
-📝 Projeto acadêmico de ciência de dados focado em letras de música e indicadores de saúde mental.  
-💡 Funcionalidades: exploração, visualização e insights sobre diversidade lexical.  
-🔗 [Ver repositório](https://github.com/micaeltoscano/Saude_Mental_e_Musica)
-
-### 📂 Exploração de dados orçamentários da Paraíba
-📝 Projeto Acadêmico de Pesquisa Aplicada à ciência de dados focado em analisar o crescimento orçamentário no estado da Paraíba.
-💡 Funcionalidades: análise de crescimento orçamentário, de crescimento populacional e orçamentos durante a pandemia da covid-19.  
-🔗 [Ver repositório](https://github.com/micaeltoscano/Analise_Dados_Paraiba)
+### **Data Science Skills**
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4ECDC4?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-45B7D1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-96CEB4?style=for-the-badge)
 
 ---
 
+## 💼 Featured Projects
+
+### 🏗️ Django CRUD - Barber Shop Management
+A complete web application for barbershop management with full CRUD functionality.
+- **Technologies:** Django, Python, SQLite, HTML/CSS
+- **Features:** User authentication, appointment management, service tracking
+- **🔗 [View Repository](https://github.com/micaeltoscano/CRUD_Barbearia)**
+
+### 🎵 Music & Mental Health Analysis
+Academic data science project analyzing the relationship between song lyrics and mental health indicators.
+- **Technologies:** Python, Pandas, Matplotlib, Text Analysis
+- **Features:** Lexical diversity analysis, sentiment analysis, data visualization
+- **🔗 [View Repository](https://github.com/micaeltoscano/Saude_Mental_e_Musica)**
+
+### 📊 Budget Data Analysis - Paraíba
+Applied research project analyzing budget growth and public spending trends.
+- **Technologies:** Python, Data Analysis, Statistical Methods
+- **Features:** Budget trend analysis, population correlation, pandemic impact study
+- **🔗 [View Repository](https://github.com/micaeltoscano/Analise_Dados_Paraiba)**
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micaeltoscano&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 📧 [Email](mailto:seu-email@example.com)
+- 🐦 [Twitter](https://twitter.com/seu-perfil)
+
+*⭐ Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
