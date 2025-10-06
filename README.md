@@ -34,7 +34,7 @@
 🔗 [Ver repositório](https://github.com/micaeltoscano/Saude_Mental_e_Musica)
 
 ### 📂 Exploração de dados orçamentários da Paraíba
-📝 Projeto Acadêmico de Pesquisa Aplicada à ciência de dados focado em analisar o crescimento orçamentário no estado da Paraíba
+📝 Projeto Acadêmico de Pesquisa Aplicada à ciência de dados focado em analisar o crescimento orçamentário no estado da Paraíba.
 💡 Funcionalidades: análise de crescimento orçamentário, de crescimento populacional e orçamentos durante a pandemia da covid-19.  
 🔗 [Ver repositório](https://github.com/micaeltoscano/Analise_Dados_Paraiba)
 
