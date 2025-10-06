@@ -26,24 +26,15 @@
 ### 📂 CRUD em Django
 📝 Projeto completo de banco de dados com interface web.  
 💡 Funcionalidades: criação, leitura, atualização e exclusão de dados.  
-🔗 [Ver repositório](#)
+🔗 [Ver repositório](https://github.com/micaeltoscano/CRUD_Barbearia)
 
 ### 📂 Análise de Música e Saúde Mental
 📝 Projeto acadêmico de ciência de dados focado em letras de música e indicadores de saúde mental.  
 💡 Funcionalidades: exploração, visualização e insights sobre diversidade lexical.  
-🔗 [Ver repositório](#)
+🔗 [Ver repositório](https://github.com/micaeltoscano/Saude_Mental_e_Musica)
 
-### 📂 Exploração de Transações Financeiras
-📝 Análise de comportamento de consumo e detecção de padrões em dados de transações.  
-💡 Funcionalidades: análise de gastos por estado, perfil de usuários e categorias.  
-🔗 [Ver repositório](#)
+### 📂 Exploração de dados orçamentários da Paraíba
+📝 Projeto Acadêmico de Pesquisa Aplicada à ciência de dados focado em analisar o crescimento orçamentário no estado da Paraíba
+💡 Funcionalidades: análise de crescimento orçamentário, de crescimento populacional e orçamentos durante a pandemia da covid-19.  
+🔗 [Ver repositório](https://github.com/micaeltoscano/Analise_Dados_Paraiba)
 
----
-
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/micaeltoscano)  
-- [Email](mailto:seuemail@exemplo.com)
-
----
-
-> “Aprender nunca é demais, e compartilhar conhecimento é multiplicar.” 🌟
