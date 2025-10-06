@@ -41,14 +41,26 @@ I'm a Python developer with a strong focus on Data Science and Django developmen
 
 ## 💼 Featured Projects
 
-<div align="center">
+### 🏗️ Django CRUD - Barber Shop Management
+A complete web application for barbershop management with full CRUD functionality.
+- **Technologies:** Django, Python, SQLite, HTML/CSS
+- **Features:** User authentication, appointment management, service tracking
+- **🔗 [View Repository](https://github.com/micaeltoscano/CRUD_Barbearia)**
 
-[![CRUD Barbearia](https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=CRUD_Barbearia&theme=radical)](https://github.com/micaeltoscano/CRUD_Barbearia)
-[![Saude Mental e Musica](https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=Saude_Mental_e_Musica&theme=radical)](https://github.com/micaeltoscano/Saude_Mental_e_Musica)
+### 🎵 Music & Mental Health Analysis
+Academic data science project analyzing the relationship between song lyrics and mental health indicators.
+- **Technologies:** Python, Pandas, Matplotlib, Text Analysis
+- **Features:** Lexical diversity analysis, sentiment analysis, data visualization
+- **🔗 [View Repository](https://github.com/micaeltoscano/Saude_Mental_e_Musica)**
 
-[![Analise Dados Paraiba](https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=Analise_Dados_Paraiba&theme=radical)](https://github.com/micaeltoscano/Analise_Dados_Paraiba)
+### 📊 Budget Data Analysis - Paraíba
+Applied research project analyzing budget growth and public spending trends.
+- **Technologies:** Python, Data Analysis, Statistical Methods
+- **Features:** Budget trend analysis, population correlation, pandemic impact study
+- **🔗 [View Repository](https://github.com/micaeltoscano/Analise_Dados_Paraiba)**
 
-</div>
+---
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=radical)
@@ -56,3 +68,11 @@ I'm a Python developer with a strong focus on Data Science and Django developmen
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micaeltoscano&layout=compact&theme=radical)
 
 ---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 📧 [Email](mailto:seu-email@example.com)
+- 🐦 [Twitter](https://twitter.com/seu-perfil)
+
+*⭐ Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
