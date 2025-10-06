@@ -43,20 +43,12 @@ I'm a Python developer with a strong focus on Data Science and Django developmen
 
 <div align="center">
 
-<a href="https://github.com/micaeltoscano/CRUD_Barbearia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=CRUD_Barbearia&theme=radical" />
-</a>
+[![CRUD Barbearia](https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=CRUD_Barbearia&theme=radical)](https://github.com/micaeltoscano/CRUD_Barbearia)
+[![Saude Mental e Musica](https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=Saude_Mental_e_Musica&theme=radical)](https://github.com/micaeltoscano/Saude_Mental_e_Musica)
 
-<a href="https://github.com/micaeltoscano/Saude_Mental_e_Musica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=Saude_Mental_e_Musica&theme=radical" />
-</a>
-
-<a href="https://github.com/micaeltoscano/Analise_Dados_Paraiba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=Analise_Dados_Paraiba&theme=radical" />
-</a>
+[![Analise Dados Paraiba](https://github-readme-stats.vercel.app/api/pin/?username=micaeltoscano&repo=Analise_Dados_Paraiba&theme=radical)](https://github.com/micaeltoscano/Analise_Dados_Paraiba)
 
 </div>
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=radical)
