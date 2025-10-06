@@ -69,10 +69,3 @@ Applied research project analyzing budget growth and public spending trends.
 
 ---
 
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 📧 [Email](mailto:seu-email@example.com)
-- 🐦 [Twitter](https://twitter.com/seu-perfil)
-
-*⭐ Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
