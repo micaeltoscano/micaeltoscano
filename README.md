@@ -1,13 +1,13 @@
 # Hello, I'm Micael! 👋
 
-💻 **Python Developer | Data Science | Backend Development**  
-🎵 **Passionate about NLP, Music, and Mental Health**  
-🌱 **Continuously learning and exploring new technologies**  
-🌍 **Based in Brazil**
+**Python Developer | Data Science | Backend Development**  
+**Passionate about NLP, Music, and Mental Health**  
+**Continuously learning and exploring new technologies**  
+**Based in Brazil**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Python developer with a strong focus on Data Science and Django development. My passion lies in creating data-driven solutions and building robust web applications. I'm particularly interested in the intersection of technology with creative domains like music and mental health, where I believe data can drive meaningful insights and positive impact.
 
@@ -59,21 +59,21 @@ I'm a Python developer with a strong focus on Data Science and Django developmen
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🏗️ Django CRUD - Barber Shop Management
+### Django CRUD - Barber Shop Management
 A complete web application for barbershop management with full CRUD functionality.
 - **Technologies:** Django, Python, SQLite, HTML/CSS
 - **Features:** User authentication, appointment management, service tracking
 - **🔗 [View Repository](https://github.com/micaeltoscano/CRUD_Barbearia)**
 
-### 🎵 Music & Mental Health Analysis
+### Music & Mental Health Analysis
 Academic data science project analyzing the relationship between song lyrics and mental health indicators.
 - **Technologies:** Python, Pandas, Matplotlib, Text Analysis
 - **Features:** Lexical diversity analysis, sentiment analysis, data visualization
 - **🔗 [View Repository](https://github.com/micaeltoscano/Saude_Mental_e_Musica)**
 
-### 📊 Budget Data Analysis - Paraíba
+### Budget Data Analysis - Paraíba
 Applied research project analyzing budget growth and public spending trends.
 - **Technologies:** Python, Data Analysis, Statistical Methods
 - **Features:** Budget trend analysis, population correlation, pandemic impact study
@@ -81,7 +81,7 @@ Applied research project analyzing budget growth and public spending trends.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=radical)
 
