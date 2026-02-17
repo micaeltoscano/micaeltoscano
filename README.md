@@ -1,4 +1,4 @@
-# Hello, I'm Micael! 👋
+# Hello, I'm Micael! 
 
 **Python Developer | Data Science | Backend Development**  
 **Passionate about NLP, Music, and Mental Health**  
