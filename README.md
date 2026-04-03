@@ -61,11 +61,11 @@ I'm a Python developer with a strong focus on Data Science and Django developmen
 
 ## Featured Projects
 
-### Django CRUD - Barber Shop Management
-A complete web application for barbershop management with full CRUD functionality.
-- **Technologies:** Django, Python, SQLite, HTML/CSS
-- **Features:** User authentication, appointment management, service tracking
-- **🔗 [View Repository](https://github.com/micaeltoscano/CRUD_Barbearia)**
+### ENEM Performance & Absenteeism Classification
+Machine learning study analyzing the influence of socioeconomic factors on ENEM participant's performance and attendance using INEP microdata (2019-2023).
+- **Technologies:** Python, Pandas, Scikit-learn, Keras, Matplotlib 
+- **Features:** Predictive modeling (Neural Networks, Random Forest, Decision Tree, SVM), data engineering (One-Hot Encoding, Ordinal Encoding), risk profile inference pipeline
+- **🔗 [View Repository](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo)**
 
 ### Music & Mental Health Analysis
 Academic data science project analyzing the relationship between song lyrics and mental health indicators.
@@ -78,6 +78,12 @@ Applied research project analyzing budget growth and public spending trends.
 - **Technologies:** Python, Data Analysis, Statistical Methods
 - **Features:** Budget trend analysis, population correlation, pandemic impact study
 - **🔗 [View Repository](https://github.com/micaeltoscano/Analise_Dados_Paraiba)**
+
+### Django CRUD - Barber Shop Management
+A complete web application for barbershop management with full CRUD functionality.
+- **Technologies:** Django, Python, SQLite, HTML/CSS
+- **Features:** User authentication, appointment management, service tracking
+- **🔗 [View Repository](https://github.com/micaeltoscano/CRUD_Barbearia)**
 
 ---
 
