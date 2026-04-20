@@ -103,17 +103,3 @@ Full-featured web application for barbershop management with complete CRUD funct
 ## Education
 
 🎓 **B.Sc. in Data Science and Artificial Intelligence** — Universidade Federal da Paraíba (2023 – present)  
-Relevant coursework: Machine Learning, Statistical Inference, Data Structures, Algorithms, Databases, Linear Algebra, Probability, Software Engineering
-
----
-
-## Languages
-
-🇧🇷 Portuguese (Native) &nbsp;|&nbsp; 🇺🇸 English (Advanced) &nbsp;|&nbsp; 🇪🇸 Spanish (Intermediate)
-
----
-
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=micaeltoscano&theme=radical)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micaeltoscano&layout=compact&theme=radical)
