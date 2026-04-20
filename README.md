@@ -1,14 +1,18 @@
-# Hello, I'm Micael! 👋
+# Hey, I'm Micael! 🤙
 
-**Python Developer | Data Science & AI | Backend Development**  
-**Passionate about NLP, Music, and Mental Health**  
-**Based in João Pessoa, PB — Brazil**
+**Data Science & AI Student @ UFPB**  
+**Building ML pipelines, wrangling big data, and making sense of messy numbers**  
+**João Pessoa, PB — Brazil**
 
 ---
 
 ## About Me
 
-I'm a Data Science and Artificial Intelligence undergraduate at **UFPB** with a strong focus on machine learning, data engineering, and Django development. I enjoy building end-to-end pipelines — from raw data ingestion to predictive modeling and visualization — and I'm particularly interested in the intersection of technology with healthcare, education, and music.
+I'm a Data Science and Artificial Intelligence undergraduate passionate about turning raw data into meaningful decisions. My work spans the full pipeline — from data engineering and feature design to predictive modeling and visualization.
+
+I'm especially drawn to problems at the intersection of technology and human experience: education equity (ENEM), healthcare (Alzheimer's early detection), public policy (budget analysis), and the emotional layer of music.
+
+Currently deepening my expertise in scalable data engineering and applied ML.
 
 📫 micael.toscano@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/micael-toscano)
 
@@ -30,6 +34,7 @@ I'm a Data Science and Artificial Intelligence undergraduate at **UFPB** with a 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### **Data Engineering**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
@@ -72,13 +77,13 @@ End-to-end ML pipeline for early classification of Alzheimer's disease using cli
 ### 📊 ENEM Performance & Absenteeism Classification (5M+ records)
 Scalable ML models to classify student performance and predict absenteeism from large-scale educational data.
 - **Technologies:** Python, Pandas, Scikit-learn, Keras, Parquet
-- **Highlights:** Full data pipeline with feature engineering and cross-validation on 5M+ rows; CSV → Parquet conversion for I/O optimization; Decision Tree, Random Forest, SVM, and Neural Networks; **71% accuracy** on performance, **70%** on absenteeism; interpretable socioeconomic risk factor analysis
+- **Highlights:** Full data pipeline with feature engineering and cross-validation on 5M+ rows; CSV → Parquet conversion for I/O optimization; Decision Tree, Random Forest, SVM, and Neural Networks; **71% accuracy** on performance, **70%** on absenteeism
 - **🔗 [View Repository](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo)**
 
 ### 🎵 Music & Mental Health Analysis
 Exploratory and statistical analysis of the correlation between musical habits and mental health indicators.
 - **Technologies:** Python, Pandas, Matplotlib, Seaborn
-- **Highlights:** Original algorithm for quantifying lyrical lexical complexity; sentiment analysis; interactive visualizations and analytical reports
+- **Highlights:** Original algorithm for quantifying lyrical lexical complexity; sentiment analysis; interactive visualizations
 - **🔗 [View Repository](https://github.com/micaeltoscano/Saude_Mental_e_Musica)**
 
 ### 💰 Budget Data Analysis — Paraíba
@@ -102,14 +107,6 @@ Relevant coursework: Machine Learning, Statistical Inference, Data Structures, A
 
 ---
 
-## Certifications
-
-- 📜 Data Scientist Training: The Complete Course — Udemy (2025)
-- 📜 Machine Learning and Data Science with Python A–Z — Udemy (2025)
-- 📜 Advanced Database Studies — Udemy (2025)
-
----
-
 ## Languages
 
 🇧🇷 Portuguese (Native) &nbsp;|&nbsp; 🇺🇸 English (Advanced) &nbsp;|&nbsp; 🇪🇸 Spanish (Intermediate)
@@ -118,5 +115,5 @@ Relevant coursework: Machine Learning, Statistical Inference, Data Structures, A
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=micaeltoscano&theme=radical)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micaeltoscano&layout=compact&theme=radical)
