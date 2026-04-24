@@ -13,12 +13,12 @@
 
 ---
 
-### Sobre mim
+### 👨‍💻 About Me
 
 ```python
 micael = {
     "role":      "Data Scientist & AI Engineer",
-    "location":  "João Pessoa, PB — Brasil",
+    "location":  "João Pessoa, PB — Brazil",
     "focus":     ["ML Pipelines", "Data Engineering", "Predictive Modeling", "Data Analysis"],
     "contact":   "micael.toscano@gmail.com",
 }
@@ -26,9 +26,9 @@ micael = {
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-**Linguagens & Bibliotecas Core**
+**Languages & Core Libraries**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +36,7 @@ micael = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Machine Learning & IA**
+**Machine Learning & AI**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -48,12 +48,12 @@ micael = {
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
 
-**Cloud & Infra**
+**Cloud & Infrastructure**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Databases & Visualização**
+**Databases & Visualization**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,20 +63,18 @@ micael = {
 
 ---
 
-### Projetos em Destaque
+### 🚀 Featured Projects
 
-| Projeto | Descrição | Tecnologias | Resultado |
-|---------|-----------|-------------|-----------|
-| [Alzheimer Classification](https://github.com/micaeltoscano) | Pipeline ML para classificação precoce de Alzheimer | Python, Scikit-learn, PCA | **97% accuracy** |
-| [ENEM 5M+ records](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo) | Modelos escaláveis para desempenho e absenteísmo | PySpark, Keras, Parquet | **71% / 70% accuracy** |
-| [Música & Saúde Mental](https://github.com/micaeltoscano/Saude_Mental_e_Musica) | Análise estatística de hábitos musicais vs. saúde mental | Pandas, Matplotlib, Seaborn | Análise de sentimento |
-| [Orçamento Paraíba](https://github.com/micaeltoscano/Analise_Dados_Paraiba) | Análise de crescimento e tendências orçamentárias | Python, Métodos Estatísticos | Impacto pandemia |
-| [Django Barbearia](https://github.com/micaeltoscano/CRUD_Barbearia) | App web de gestão de barbearia com CRUD completo | Django, SQLite, HTML/CSS | Auth + agendamento |
-
----
-
-### Formação
-
-**Bacharelado em Ciência de Dados e Inteligência Artificial** — Universidade Federal da Paraíba *(2023 – presente)*
+| Project | Description | Technologies | Result |
+|---------|-------------|--------------|--------|
+| 🧠 [Alzheimer Classification](https://github.com/micaeltoscano) | End-to-end ML pipeline for early Alzheimer's disease classification | Python, Scikit-learn, PCA | **97% accuracy** |
+| 📊 [ENEM 5M+ records](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo) | Scalable models for student performance and absenteeism prediction | PySpark, Keras, Parquet | **71% / 70% accuracy** |
+| 🎵 [Music & Mental Health](https://github.com/micaeltoscano/Saude_Mental_e_Musica) | Statistical analysis of musical habits vs. mental health indicators | Pandas, Matplotlib, Seaborn | Sentiment analysis |
+| 💰 [Paraíba Budget Analysis](https://github.com/micaeltoscano/Analise_Dados_Paraiba) | Applied research on public budget growth and spending trends | Python, Statistical Methods | Pandemic impact study |
+| ✂️ [Django Barber Shop](https://github.com/micaeltoscano/CRUD_Barbearia) | Full-featured web app for barbershop management with complete CRUD | Django, SQLite, HTML/CSS | Auth + scheduling |
 
 ---
+
+### 🎓 Education
+
+🏛️ **B.Sc. in Data Science and Artificial Intelligence** — Universidade Federal da Paraíba *(2023 – present)*
