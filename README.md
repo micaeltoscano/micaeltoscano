@@ -47,11 +47,9 @@ micael = {
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 **Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -77,8 +75,8 @@ micael = {
 
 ---
 
-### 🎓 Formação
+### Formação
 
-🏛️ **Bacharelado em Ciência de Dados e Inteligência Artificial** — Universidade Federal da Paraíba *(2023 – presente)*
+**Bacharelado em Ciência de Dados e Inteligência Artificial** — Universidade Federal da Paraíba *(2023 – presente)*
 
 ---
