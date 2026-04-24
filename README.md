@@ -38,9 +38,8 @@ micael = {
 
 ---
 
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,django,docker,postgres,mysql,gcp,git,github,linux,vscode,jupyter&theme=dark" />
+Tech Stack
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,scipy,sklearn,tensorflow,keras,pytorch,pyspark,postgres,mysql,docker,git,vscode,jupyter,linux&theme=dark" />
 
 ---
 
