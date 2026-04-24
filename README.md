@@ -13,21 +13,20 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 ```python
 micael = {
     "role":      "Data Scientist & AI Engineer",
     "location":  "João Pessoa, PB — Brasil",
-    "focus":     ["ML Pipelines", "Data Engineering", "Predictive Modeling"],
-    "currently": "Construindo soluções que transformam dados em decisões",
+    "focus":     ["ML Pipelines", "Data Engineering", "Predictive Modeling", "Data Analysis"],
     "contact":   "micael.toscano@gmail.com",
 }
 ```
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens & Bibliotecas Core**
 
@@ -66,15 +65,15 @@ micael = {
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Resultado |
 |---------|-----------|-------------|-----------|
-| 🧠 [Alzheimer Classification](https://github.com/micaeltoscano) | Pipeline ML para classificação precoce de Alzheimer | Python, Scikit-learn, PCA | **97% accuracy** |
-| 📊 [ENEM 5M+ records](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo) | Modelos escaláveis para desempenho e absenteísmo | PySpark, Keras, Parquet | **71% / 70% accuracy** |
-| 🎵 [Música & Saúde Mental](https://github.com/micaeltoscano/Saude_Mental_e_Musica) | Análise estatística de hábitos musicais vs. saúde mental | Pandas, Matplotlib, Seaborn | Análise de sentimento |
-| 💰 [Orçamento Paraíba](https://github.com/micaeltoscano/Analise_Dados_Paraiba) | Análise de crescimento e tendências orçamentárias | Python, Métodos Estatísticos | Impacto pandemia |
-| ✂️ [Django Barbearia](https://github.com/micaeltoscano/CRUD_Barbearia) | App web de gestão de barbearia com CRUD completo | Django, SQLite, HTML/CSS | Auth + agendamento |
+| [Alzheimer Classification](https://github.com/micaeltoscano) | Pipeline ML para classificação precoce de Alzheimer | Python, Scikit-learn, PCA | **97% accuracy** |
+| [ENEM 5M+ records](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo) | Modelos escaláveis para desempenho e absenteísmo | PySpark, Keras, Parquet | **71% / 70% accuracy** |
+| [Música & Saúde Mental](https://github.com/micaeltoscano/Saude_Mental_e_Musica) | Análise estatística de hábitos musicais vs. saúde mental | Pandas, Matplotlib, Seaborn | Análise de sentimento |
+| [Orçamento Paraíba](https://github.com/micaeltoscano/Analise_Dados_Paraiba) | Análise de crescimento e tendências orçamentárias | Python, Métodos Estatísticos | Impacto pandemia |
+| [Django Barbearia](https://github.com/micaeltoscano/CRUD_Barbearia) | App web de gestão de barbearia com CRUD completo | Django, SQLite, HTML/CSS | Auth + agendamento |
 
 ---
 
