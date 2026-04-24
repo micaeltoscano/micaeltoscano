@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```python
 micael = {
@@ -26,7 +26,7 @@ micael = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Core Libraries**
 
@@ -63,18 +63,18 @@ micael = {
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Technologies | Result |
 |---------|-------------|--------------|--------|
-| 🧠 [Alzheimer Classification](https://github.com/micaeltoscano) | End-to-end ML pipeline for early Alzheimer's disease classification | Python, Scikit-learn, PCA | **97% accuracy** |
-| 📊 [ENEM 5M+ records](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo) | Scalable models for student performance and absenteeism prediction | PySpark, Keras, Parquet | **71% / 70% accuracy** |
-| 🎵 [Music & Mental Health](https://github.com/micaeltoscano/Saude_Mental_e_Musica) | Statistical analysis of musical habits vs. mental health indicators | Pandas, Matplotlib, Seaborn | Sentiment analysis |
-| 💰 [Paraíba Budget Analysis](https://github.com/micaeltoscano/Analise_Dados_Paraiba) | Applied research on public budget growth and spending trends | Python, Statistical Methods | Pandemic impact study |
-| ✂️ [Django Barber Shop](https://github.com/micaeltoscano/CRUD_Barbearia) | Full-featured web app for barbershop management with complete CRUD | Django, SQLite, HTML/CSS | Auth + scheduling |
+| [Alzheimer Classification](https://github.com/micaeltoscano) | End-to-end ML pipeline for early Alzheimer's disease classification | Python, Scikit-learn, PCA | **97% accuracy** |
+| [ENEM 5M+ records](https://github.com/micaeltoscano/ENEM-Classificacao-Desempenho-Absentismo) | Scalable models for student performance and absenteeism prediction | PySpark, Keras, Parquet | **71% / 70% accuracy** |
+| [Music & Mental Health](https://github.com/micaeltoscano/Saude_Mental_e_Musica) | Statistical analysis of musical habits vs. mental health indicators | Pandas, Matplotlib, Seaborn | Sentiment analysis |
+| [Paraíba Budget Analysis](https://github.com/micaeltoscano/Analise_Dados_Paraiba) | Applied research on public budget growth and spending trends | Python, Statistical Methods | Pandemic impact study |
+| [Django Barber Shop](https://github.com/micaeltoscano/CRUD_Barbearia) | Full-featured web app for barbershop management with complete CRUD | Django, SQLite, HTML/CSS | Auth + scheduling |
 
 ---
 
-### 🎓 Education
+### Education
 
-🏛️ **B.Sc. in Data Science and Artificial Intelligence** — Universidade Federal da Paraíba *(2023 – present)*
+**B.Sc. in Data Science and Artificial Intelligence** — Universidade Federal da Paraíba *(2023 – present)*
