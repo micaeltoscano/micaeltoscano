@@ -67,8 +67,3 @@ My projects tackle problems in **education**, **health**, and **public policy** 
 **B.Sc. in Data Science and Artificial Intelligence** — Universidade Federal da Paraíba *(2023 – present)*
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micaeltoscano&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaeltoscano&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
