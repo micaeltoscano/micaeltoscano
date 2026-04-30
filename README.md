@@ -5,7 +5,7 @@
 # Micael Toscano
 ### From raw public data to real-world decisions.
 
-Data Science student with hands-on experience building end-to-end ML pipelines on real-world datasets — from 5M+ record ENEM microdata to early Alzheimer's detection — and I'm currently seeking a Data Science internship.
+Data Science student with hands-on experience building end-to-end ML pipelines on real-world datasets and I'm currently seeking a Data Science internship.
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micael.toscano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/micael-toscano)
